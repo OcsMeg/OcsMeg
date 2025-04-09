@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# AboutMe
+I'm a student developer and designer!
+I study Unity and 3D design!
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=OcsMeg&show_icons=true&locale=en&layout=compact)
+
+## Programming languages
+<img src="https://skillicons.dev/icons?i=js,python,C#," /> <br /><br />
 <!--
 **OcsMeg/OcsMeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
